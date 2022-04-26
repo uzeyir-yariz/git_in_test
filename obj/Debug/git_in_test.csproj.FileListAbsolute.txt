@@ -1,0 +1,1 @@
+c:\users\uzeyi\documents\visual studio 2012\Projects\git_in_test\git_in_test\bin\Debug\git_in_test.exe.config
